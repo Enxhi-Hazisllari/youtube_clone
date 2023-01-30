@@ -16,7 +16,6 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Enxhi JS', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -33,3 +32,10 @@ export const categories = [
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
+
+export const demoThumbnailUrl = 'https://images.wondershare.com/recoverit/article/2020/03/Video_unavailable_Img_1.jpg';
+export const demoChannelUrl = '/channel/UCcdwLMPsaU2ezNSJU1nFoBQ';
+export const demoVideoUrl = '/video/XqZsoesa55w';
+export const demoChannelTitle = 'Baby Shark Dance';
+export const demoVideoTitle = 'Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children';
+export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png';
